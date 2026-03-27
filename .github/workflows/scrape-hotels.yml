@@ -26,9 +26,15 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      - name: Run scraper
+      - name: Discover new hotels (all GCC cities)
         working-directory: python_automation
-        run: python scraper_advanced.py
+        run: python discover_hotels.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Scrape existing + new hotels
+        working-directory: python_automation
+        run: python scraper_advanced.py --new-only
         env:
           PYTHONIOENCODING: utf-8
 

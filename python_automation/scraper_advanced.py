@@ -285,20 +285,37 @@ class HotelScraper:
             finally:
                 await browser.close()
 
-async def run_scrapers():
+async def run_scrapers(new_only=False):
     scraper = HotelScraper()
+
+    # Build URL list
+    if new_only and os.path.exists("scraped_data/new_urls_to_scrape.txt"):
+        with open("scraped_data/new_urls_to_scrape.txt", "r") as f:
+            urls = [u.strip() for u in f.readlines() if u.strip()]
+        print(f"[NEW-ONLY] Scraping {len(urls)} newly discovered hotels...")
+    else:
+        urls = URLS_TO_SCRAPE
+
+    # Skip already scraped
     already_done = set()
-    # Skip already scraped hotels
     if os.path.exists(JSON_DIR):
         already_done = {f.replace(".json", "") for f in os.listdir(JSON_DIR) if f.endswith(".json")}
 
-    total = len(URLS_TO_SCRAPE)
-    for i, url in enumerate(URLS_TO_SCRAPE):
-        slug_guess = url.split("/hotel/")[1].replace("/", "_").replace(".html", "").replace("-", "_")
-        print(f"\n[{i+1}/{total}] Processing: {url}")
+    total = len(urls)
+    scraped = 0
+    for i, url in enumerate(urls):
+        slug = url.split("/hotel/")[1].replace("/", "_").replace("-", "_").replace(".html", "")
+        if slug in already_done:
+            print(f"[{i+1}/{total}] Skipping (already done): {slug}")
+            continue
+        print(f"\n[{i+1}/{total}] Scraping: {url}")
         await scraper.scrape_booking(url)
-        # Wait 4–6 seconds between requests to avoid getting blocked
+        scraped += 1
         await asyncio.sleep(5)
 
+    print(f"\n[DONE] Scraped {scraped} hotels.")
+
 if __name__ == "__main__":
-    asyncio.run(run_scrapers())
+    import sys
+    new_only = "--new-only" in sys.argv
+    asyncio.run(run_scrapers(new_only=new_only))
