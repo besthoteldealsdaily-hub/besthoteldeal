@@ -2,7 +2,7 @@ name: Scrape & Update Hotels
 
 on:
   schedule:
-    - cron: "0 2 * * 1"   # Every Monday at 2am UTC (weekly)
+    - cron: "0 2 * * *"   # Every day at 2am UTC (daily)
   workflow_dispatch:        # Manual trigger from GitHub UI anytime
 
 jobs:
