@@ -64,9 +64,9 @@ export default function Footer() {
         {/* Top row */}
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6 pb-12 border-b border-white/10">
           <div className="max-w-xs">
-            <div className="flex items-center gap-3 mb-3">
-              <div className="w-10 h-10 rounded-full bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center">
-                <span className="text-navy-950 font-bold">BH</span>
+            <div className="flex items-center gap-3 mb-4">
+              <div className="w-12 h-12 flex items-center justify-center shrink-0 drop-shadow-md bg-white rounded-xl overflow-hidden p-[2px]">
+                <img src="/logo.svg" alt="Best Hotel Deals Daily" className="w-full h-full object-contain" />
               </div>
               <div>
                 <div className="text-white font-bold text-xl leading-tight">

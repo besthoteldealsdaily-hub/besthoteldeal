@@ -92,8 +92,8 @@ export default function Header() {
         <div className="flex items-center justify-between h-14">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
-            <div className="w-8 h-8 rounded-full bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center shadow-lg">
-              <span className="text-navy-950 font-black text-xs">BH</span>
+            <div className="w-10 h-10 flex items-center justify-center shrink-0 drop-shadow-lg bg-white rounded-xl overflow-hidden p-[2px]">
+              <img src="/logo.svg" alt="Best Hotel Deals Daily" className="w-full h-full object-contain" />
             </div>
             <div className="hidden sm:block">
               <div className="text-white font-black text-sm leading-tight group-hover:text-gold-400 transition-colors tracking-tight">
