@@ -1,0 +1,33 @@
+{
+    "hotel_name": "Anjum Makkah Hotel",
+    "slug": "anjum_makkah_hotel",
+    "rating": "Scored 9.4",
+    "review_count": "Superb· 16,157 reviews",
+    "raw_description": "Located in Mecca, Anjum Hotel Makkah offers modern accomodations with views of the Masjid Al Haram. Free WiFi access is available throughout the entire property.\n\nEach unit here will provide you with a flat-screen TV, air conditioning and a mini fridge. Bathrooms are fitted with a shower, a hairdryer and free toiletries.\n\nGuests can enjoy local and international menu options at the restaurant or in the room. Room service is available 24 hours.\n\nAt Anjum Hotel Makkah you will find a 24-hour front desk. Other facilities offered at the property include a tour desk and luggage storage.\n\nThe hotel is a 5-minute walk from Masjid Al Haram and 74 km from King Abdulaziz International Airport.\n\nCouples particularly like the location — they rated it9.3for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Anjum Makkah Hotel. Located conveniently in its prime location, this property features 11 key amenities including Private parking, Family rooms, Free WiFi.",
+    "amenities": [
+        "Private parking",
+        "Family rooms",
+        "Free WiFi",
+        "2 restaurants",
+        "Non-smoking rooms",
+        "Room service",
+        "Facilities for disabled guests",
+        "24-hour front desk",
+        "Tea/coffee maker in all rooms",
+        "Very good breakfast",
+        "See all 59 facilities"
+    ],
+    "local_images": [
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_1.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_2.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_3.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_4.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_5.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_6.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_7.webp",
+        "scraped_data\\images\\anjum_makkah_hotel\\anjum_makkah_hotel_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/sa/anjum-makkah.html",
+    "timestamp": "2026-03-28 01:05:25"
+}

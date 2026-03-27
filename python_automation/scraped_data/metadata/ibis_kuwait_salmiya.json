@@ -1,0 +1,32 @@
+{
+    "hotel_name": "ibis Kuwait Salmiya",
+    "slug": "ibis_kuwait_salmiya",
+    "rating": "Scored 7.5",
+    "review_count": "Good· 2,136 reviews",
+    "raw_description": "The contemporary Hotel Ibis Kuwait Salmiya overlooks Kuwait Bay and is conveniently located on the same street as numerous shoping malls and cafes. It is also close to the Scientific Centre.\n\nIbis Hotel’s La Terrazzo restaurant features barbecue facilities on the terrace. A buffet breakfast is offered daily with freshly-prepared pastries and fruit juices.\n\nThe bright, spacious guestrooms have flat-screen TVs with cable channels and are air conditioned. Each is fitted with chic furnishings.\n\nModern fitness equipment is available at Hotel Ibis Kuwait Salmiya’s well-appointed gym. The hotel is a 20-minute drive from Kuwait International Airport.\n\nCouples particularly like the location — they rated it8.3for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at ibis Kuwait Salmiya. Located conveniently in its prime location, this property features 10 key amenities including Free WiFi, Family rooms, Airport shuttle.",
+    "amenities": [
+        "Free WiFi",
+        "Family rooms",
+        "Airport shuttle",
+        "Fitness centre",
+        "Non-smoking rooms",
+        "4 restaurants",
+        "Room service",
+        "Facilities for disabled guests",
+        "Tea/coffee maker in all rooms",
+        "Good breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_1.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_2.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_3.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_4.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_5.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_6.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_7.webp",
+        "scraped_data\\images\\ibis_kuwait_salmiya\\ibis_kuwait_salmiya_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/kw/ibis-salmiya.html",
+    "timestamp": "2026-03-28 01:20:02"
+}

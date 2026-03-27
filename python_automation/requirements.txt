@@ -1,0 +1,7 @@
+playwright
+playwright-stealth
+pillow
+python-dotenv
+requests
+beautifulsoup4
+lxml

@@ -1,0 +1,33 @@
+{
+    "hotel_name": "Centro Sharjah",
+    "slug": "centro_sharjah",
+    "rating": "Scored 8.6",
+    "review_count": "Fabulous· 2,077 reviews",
+    "raw_description": "Centro Sharjah is uniquely located adjacent to Sharjah International Airport and close to the business districts of Sharjah. The hotel is just 15 minutes away from the city centre.\n\nAll 306 rooms and suites are meticulously designed to maximize space, light and efficiency, providing a selection of contemporary classic furniture. Advanced business facilities are built into every room with high speed WiFi internet access.\n\nCentro Sharjah offers amenities specifically geared to the needs of the travelling executive including all day dining restaurant, deli take-away, gift shop, well-appointed business centre, meeting rooms, gymnasium, table tennis, sauna, spa bath, temperature controlled swimming pool and 24 hour room delivery.\n\nThe hotel is located 4 km from Sharjah National Park, 6.4 km from Sharjah Golf and Shooting Club and Sharjah Equestrian Club. It provides complimentary private on-site parking.\n\nCouples particularly like the location — they rated it9.1for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Centro Sharjah. Located conveniently in its prime location, this property features 11 key amenities including Outdoor swimming pool, Free WiFi, Private parking.",
+    "amenities": [
+        "Outdoor swimming pool",
+        "Free WiFi",
+        "Private parking",
+        "Airport shuttle",
+        "Non-smoking rooms",
+        "Fitness centre",
+        "Restaurant",
+        "Room service",
+        "Tea/coffee maker in all rooms",
+        "Good breakfast",
+        "See all 78 facilities"
+    ],
+    "local_images": [
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_1.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_2.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_3.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_4.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_5.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_6.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_7.webp",
+        "scraped_data\\images\\centro_sharjah\\centro_sharjah_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/ae/centro-sharjah-airport-sharjah.html",
+    "timestamp": "2026-03-28 01:28:45"
+}

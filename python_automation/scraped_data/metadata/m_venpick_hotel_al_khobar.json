@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Mövenpick Hotel Al Khobar",
+    "slug": "m_venpick_hotel_al_khobar",
+    "rating": "Scored 8.5",
+    "review_count": "Very good· 1,526 reviews",
+    "raw_description": "Located in Al Khobar’s commercial district, Mövenpick Hotel Al Khobar features an indoor pool, a fitness centre, a wellness spa, 3 restaurants and 1 café . It offers elegant rooms and suites with satellite TV and city or sea views.\n\nSituated on Prince Turki highway, Mövenpick Hotel Al Khobar is less than 2 km away from Al Khobar Corniche, and just 500 metres from Giant Stores Shopping Area.\n\nAll rooms and suites offer a city or sea view. Each one is equipped with a minibar, iPod dock, tea/coffee maker, safe, DVD player and satellite TV. The bathroom is equipped with a hairdryer, towels, a bathrobe and slippers.\n\nGuests of Mövenpick Al Khobar can have a massage or a Turkish bath and relax in the sauna. A fitness centre and a squash court are also available.\n\nAll day buffet is available daily at The Blue Restaurant. Authentic Indian dishes are served at Maharaja Restaurant. Guests can also enjoy panoramic city and gulf views from the View Restaurant. Le Café offers light snacks and coffee.\n\nKing Fahad International Airport is a 45-minute drive from the hotel. Free valet and private parking are available.\n\nCouples particularly like the location — they rated it9.1for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Mövenpick Hotel Al Khobar. Located conveniently in its prime location, this property features 10 key amenities including Indoor swimming pool, Free WiFi, Free parking.",
+    "amenities": [
+        "Indoor swimming pool",
+        "Free WiFi",
+        "Free parking",
+        "Family rooms",
+        "Fitness centre",
+        "Airport shuttle",
+        "Spa and wellness centre",
+        "Non-smoking rooms",
+        "3 restaurants",
+        "Fabulous breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_1.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_2.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_3.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_4.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_5.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_6.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_7.webp",
+        "scraped_data\\images\\m_venpick_hotel_al_khobar\\m_venpick_hotel_al_khobar_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/sa/movenpick-al-khobar.html",
+    "timestamp": "2026-03-28 01:34:07"
+}

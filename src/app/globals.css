@@ -1,26 +1,135 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --color-navy-950: #030d1f;
+  --color-navy-900: #061429;
+  --color-navy-800: #0a2040;
+  --color-navy-700: #0e2d5a;
+  --color-navy-600: #133a74;
+  --color-navy-500: #1a4d99;
+  --color-navy-100: #e2e8f0;
+  --color-navy-50:  #f8fafc;
+  --color-gold-50:  #fdfbf0;
+  --color-gold-100: #faf3cc;
+  --color-gold-200: #f5e699;
+  --color-gold-300: #efd466;
+  --color-gold-400: #e8c133;
+  --color-gold-500: #d4a017;
+  --color-gold-600: #b8860b;
+  --color-gold-700: #8b6508;
+  --color-gold-800: #5e4506;
+  --color-gold-900: #312403;
+  --font-sans: "Jotia", Verdana, Geneva, sans-serif;
+  --font-display: "Jotia", Verdana, Geneva, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    scroll-behavior: smooth;
+  }
+
+    body {
+    @apply bg-white text-[#1f2937] antialiased; /* Standard gray-800 for clean text */
+    font-family: var(--font-sans);
+    font-size: 13px; /* Smaller, neat font like chat */
+    line-height: 1.5;
+  }
+
+  /* Base heading reset — !important in @layer base beats ALL other !important rules in Tailwind v4 */
+  h1, h2, h3, h4, h5, h6,
+  h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
+    font-family: 'Jotia', Verdana, Geneva, sans-serif !important;
+    font-size: 36px !important;
+    font-weight: 100 !important;
+    line-height: 48px !important;
+    color: rgb(255, 255, 255) !important;
+  }
+
+  h1 { @apply mb-4; }
+  h2 { @apply mb-3; }
+  h3 { @apply mb-2; }
+  
+  p { @apply mb-3 leading-relaxed; }
+
+  * {
+    box-sizing: border-box;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer utilities {
+  .text-tiny {
+    font-size: 11px;
+    line-height: 1.2rem;
+  }
+  .text-micro {
+    font-size: 10px;
+    line-height: 1rem;
+  }
+}
+
+@layer components {
+  /* Clean, no-nonsense gold gradient */
+  .text-gold-gradient {
+    background: linear-gradient(135deg, #b8860b 0%, #d4a017 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* Deep navy for authority */
+  .bg-navy-gradient {
+    background: #030d1f;
+  }
+
+  /* Compact Card - matching chat message blocks */
+  .card-compact {
+    @apply bg-white border border-gray-100 rounded-lg p-3 transition-all duration-200 hover:border-gold-300 hover:shadow-sm;
+  }
+
+  /* Button styles similar to chat action buttons */
+  .btn-gold {
+    @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded bg-gold-500 text-navy-950 font-black text-[11px] transition-all hover:bg-gold-400;
+  }
+
+  .btn-navy {
+    @apply inline-flex items-center gap-1.5 px-3 py-1.5 rounded bg-navy-900 text-white font-black text-[11px] transition-all hover:bg-navy-800;
+  }
+
+  /* Section headings */
+  .section-title {
+    @apply text-lg font-black text-navy-900 mb-6;
+  }
+
+  /* Badge - compact */
+  .badge {
+    @apply inline-flex items-center px-1.5 py-0.5 rounded text-[9px] font-black uppercase tracking-wider h-5;
+  }
+  .badge-gold {
+    @apply inline-flex items-center px-1.5 py-0.5 rounded text-[9px] font-black uppercase tracking-wider h-5 bg-gold-100 text-gold-800 border border-gold-200;
+  }
+  .badge-navy {
+    @apply inline-flex items-center px-1.5 py-0.5 rounded text-[9px] font-black uppercase tracking-wider h-5 bg-navy-50 text-navy-800 border border-navy-100;
+  }
+
+  /* Repeated label pattern (section headers, meta text) */
+  .label-uppercase {
+    @apply text-[10px] text-gray-400 font-bold uppercase tracking-wider;
+  }
+
+  /* Card with hover lift effect */
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-0.5;
+  }
+}
+
+/* Force ALL headings — overrides all Tailwind utilities and component classes */
+h1, h2, h3, h4, h5, h6,
+h1 *, h2 *, h3 *, h4 *, h5 *, h6 *,
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+  font-family: 'Jotia', Verdana, Geneva, sans-serif !important;
+  font-size: 36px !important;
+  font-weight: 100 !important;
+  line-height: 48px !important;
+  color: rgb(255, 255, 255) !important;
 }

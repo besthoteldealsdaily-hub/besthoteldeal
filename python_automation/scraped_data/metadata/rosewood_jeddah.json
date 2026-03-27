@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Rosewood Jeddah",
+    "slug": "rosewood_jeddah",
+    "rating": "Scored 9.1",
+    "review_count": "Superb· 904 reviews",
+    "raw_description": "Located in Jeddah, this luxurious 5-star hotel features panoramic Red Sea views. It has 3 restaurants, 5 board rooms, a rooftop swimming pool and a modern gym on the 17th floor.\n\nThe elegant rooms at the Rosewood Jeddah have a flat-screen TV, a DVD player and a spacious seating area. Some rooms feature sea and Jeddah city views.\n\nGuests (Men only) of the Rosewood Jeddah can also relax at the Steam bath and sauna, or work out at the well-equipped gym, which offers sea views from the 17th floor.\n\nThe Rosewood Jeddah is within easy reach of Jeddah’s numerous business, diplomatic and governmental districts. A number of Jeddah’s top shopping districts and malls are also easily accessible.\n\nCouples particularly like the location — they rated it9.6for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Rosewood Jeddah. Located conveniently in its prime location, this property features 10 key amenities including Outdoor swimming pool, Free parking, Family rooms.",
+    "amenities": [
+        "Outdoor swimming pool",
+        "Free parking",
+        "Family rooms",
+        "Fitness centre",
+        "2 restaurants",
+        "Non-smoking rooms",
+        "Room service",
+        "24-hour front desk",
+        "Fabulous breakfast",
+        "See all 53 facilities"
+    ],
+    "local_images": [
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_1.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_2.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_3.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_4.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_5.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_6.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_7.webp",
+        "scraped_data\\images\\rosewood_jeddah\\rosewood_jeddah_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/sa/rosewood-corniche.html",
+    "timestamp": "2026-03-28 01:23:55"
+}

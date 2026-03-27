@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "supabase": {
+      "command": "npx",
+      "args": ["-y", "@supabase/mcp-server-supabase@latest"],
+      "env": {
+        "SUPABASE_URL": "https://orcfnjhtshomyuosoraf.supabase.co",
+        "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9yY2Zuamh0c2hvbXl1b3NvcmFmIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3Mzk0MjUxNSwiZXhwIjoyMDg5NTE4NTE1fQ.OyLQztsczZTvItd_S2Q4Qrf4UfiKUBKF9dHMZxm2l6g"
+      }
+    }
+  }
+}

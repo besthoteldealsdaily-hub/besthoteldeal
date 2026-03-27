@@ -1,0 +1,33 @@
+{
+    "hotel_name": "Address Downtown",
+    "slug": "address_downtown",
+    "rating": "Scored 9",
+    "review_count": "Superb· 2,391 reviews",
+    "raw_description": "Towering high at 302 metres across 63 levels, Address Downtown is a veritable landmark of luxury, situated in the very centre of Downtown Dubai. The hotel directly overlooks The Dubai Mall (the world’s largest shopping mall) by walking distance.\n\nThe 220 guest rooms and suites are equipped with high-speed wireless Internet, interactive TVs with Apple AirPlay devices, an entertainment interface, dressing areas with Hollywood mirrors and L-shaped sofa seating area. The marble bathrooms are fitted with dual sinks, a bathtub and a rain shower.\n\nGuests can choose among 11 unique restaurant concepts, serving a variety of cuisines from Asian to Latino, as well as local Middle Eastern specialities.\n\nVast open expanses, superlative décor, curated amenities, and unlimited access to the Club Lounge make this an altogether irresistible proposition here in Address Downtown.\n\nAs a wellness destination with state-of-the-art Technogym centre, Address Downtown also offers an exclusive spa with 9 treatment rooms.\n\nGuests can make use of the versatile meeting rooms and world-class amenities ensure that the stay is marvelously memorable, while young children can look forward to reveling in the immersive activities in Qix club.\n\nThe hotel is located next to Souk Al Bahar, very near to famous attraction The Dubai Fountain and walking distance to China Town in Dubai Mall. A limousine shuttle service is available upon request and airport transfers can also be arranged. Private parking is free.\n\nCouples particularly like the location — they rated it9.7for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Address Downtown. Located conveniently in its prime location, this property features 11 key amenities including Outdoor swimming pool, Free WiFi, Airport shuttle.",
+    "amenities": [
+        "Outdoor swimming pool",
+        "Free WiFi",
+        "Airport shuttle",
+        "Family rooms",
+        "Free parking",
+        "Fitness centre",
+        "Spa and wellness centre",
+        "5 restaurants",
+        "Bar",
+        "Very good breakfast",
+        "See all 67 facilities"
+    ],
+    "local_images": [
+        "scraped_data\\images\\address_downtown\\address_downtown_1.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_2.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_3.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_4.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_5.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_6.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_7.webp",
+        "scraped_data\\images\\address_downtown\\address_downtown_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/ae/address-downtown.html",
+    "timestamp": "2026-03-28 01:01:29"
+}

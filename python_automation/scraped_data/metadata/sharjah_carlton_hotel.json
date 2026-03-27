@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Sharjah Carlton Hotel",
+    "slug": "sharjah_carlton_hotel",
+    "rating": "Scored 6.9",
+    "review_count": "Pleasant· 106 reviews",
+    "raw_description": "This 4-star resort offers an outdoor pool and tennis court, right next to the beach. Set in green gardens, it is 20 minutes’ drive from Dubai International Airport. Private parking is free.\n\nBalconies are included in all rooms at Sharjah Carlton Hotel. Each comes with satellite TV, minibar and tea/coffee maker. Air conditioning and private bathrooms are standard in all units.\n\nGuests can work out at the fitness centre or relax in Sharjah Carlton’s sauna.\n\nIt is 15 km from Dubai Creek Golf and Yacht Club.\n\nCouples particularly like the location — they rated it8.4for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Sharjah Carlton Hotel. Located conveniently in its prime location, this property features 10 key amenities including Outdoor swimming pool, Free WiFi, Beachfront.",
+    "amenities": [
+        "Outdoor swimming pool",
+        "Free WiFi",
+        "Beachfront",
+        "Free parking",
+        "Non-smoking rooms",
+        "Fitness centre",
+        "Restaurant",
+        "Room service",
+        "Facilities for disabled guests",
+        "Breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_1.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_2.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_3.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_4.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_5.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_6.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_7.webp",
+        "scraped_data\\images\\sharjah_carlton_hotel\\sharjah_carlton_hotel_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/ae/carlton-beach-sharjah.html",
+    "timestamp": "2026-03-28 01:28:21"
+}

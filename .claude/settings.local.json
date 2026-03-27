@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next:*)",
+      "Bash(grep -r \"HotelOwnerForm\\\\|partner.*form\\\\|owner.*registration\" /d/besthoteldealsdaily.com/src --include=*.tsx --include=*.ts)",
+      "Bash(npm run:*)",
+      "Bash(xargs wc:*)",
+      "Bash(npx tsc:*)",
+      "Bash(powershell \"Get-Process -Id 23588 | Select-Object Name, Id, Path\")",
+      "WebSearch",
+      "WebFetch(domain:www.booking.com)",
+      "WebFetch(domain:travel.firozblogger.com)",
+      "WebFetch(domain:www.tripadvisor.com)",
+      "WebFetch(domain:www.expedia.com)",
+      "WebFetch(domain:burj-al-arab-dubai.hotel-rez.com)",
+      "WebFetch(domain:jw-marriott-kuwait-city.h-rez.com)",
+      "WebFetch(domain:the-ritz-carlton-bahrain.h-rez.com)",
+      "WebFetch(domain:albustanpalaceritzcarlton.h-rez.com)",
+      "WebFetch(domain:moevenpick-hotel-anwar.h-rzn.com)",
+      "WebFetch(domain:www.klook.com)",
+      "WebFetch(domain:en.planetofhotels.com)",
+      "WebFetch(domain:www.hotels-dubai.org)",
+      "WebFetch(domain:www.guestreservations.com)",
+      "WebFetch(domain:www.makemytrip.global)",
+      "WebFetch(domain:www.travala.com)",
+      "WebFetch(domain:cf.bstatic.com)",
+      "WebFetch(domain:us.trip.com)",
+      "WebFetch(domain:www.virtualhotel.net)",
+      "WebFetch(domain:hotelsdestiny.com)",
+      "Bash(python -c \"import playwright; import bs4; import PIL; print\\(''OK''\\)\")",
+      "Bash(python_automation/venv/Scripts/python.exe -c \"import playwright; import bs4; import PIL; print\\(''Dependencies OK''\\)\")",
+      "Bash(d:/besthoteldealsdaily.com/python_automation/venv/Scripts/python.exe -c \"import playwright; import bs4; import PIL; print\\(''Dependencies OK''\\)\")"
+    ]
+  }
+}

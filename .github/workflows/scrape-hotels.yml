@@ -1,0 +1,53 @@
+name: Scrape & Update Hotels
+
+on:
+  schedule:
+    - cron: "0 2 * * 1"   # Every Monday at 2am UTC (weekly)
+  workflow_dispatch:        # Manual trigger from GitHub UI anytime
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180    # 3 hours max
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        working-directory: python_automation
+        run: |
+          pip install playwright playwright-stealth pillow python-dotenv requests beautifulsoup4 lxml
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run scraper
+        working-directory: python_automation
+        run: python scraper_advanced.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Generate data.ts entries
+        working-directory: python_automation
+        run: python generate_data.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Inject into data.ts
+        working-directory: python_automation
+        run: python inject_hotels.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/lib/data.ts public/hotels/
+          git diff --staged --quiet || git commit -m "chore: auto-update hotel data from Booking.com [skip ci]"
+          git push

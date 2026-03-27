@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Warwick Al Taif Hotel",
+    "slug": "warwick_al_taif_hotel",
+    "rating": "Scored 9.4",
+    "review_count": "Superb· 1,612 reviews",
+    "raw_description": "Comfortable Accommodations:Rooms feature air-conditioning, private bathrooms with walk-in showers, city views, and modern amenities including free WiFi, flat-screen TVs, and work desks.Wellness and Leisure:Guests can enjoy spa facilities, a sauna, and a year-round outdoor swimming pool. Additional amenities include a fitness room, steam room, and outdoor seating area.Dining Options:The hotel offers a restaurant and bar, serving continental, buffet, and halal breakfasts. A coffee shop and pool bar provide additional dining options.Convenient Location:Located in Taif, the hotel is 22 km from Ta'if Regional Airport. Nearby attractions include Jouri Mall (8 km) and King Fahad Garden (10 km). Free on-site private parking is available.\n\nCouples particularly like the location — they rated it9.3for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Warwick Al Taif Hotel. Located conveniently in its prime location, this property features 10 key amenities including Outdoor swimming pool, Free parking, Free WiFi.",
+    "amenities": [
+        "Outdoor swimming pool",
+        "Free parking",
+        "Free WiFi",
+        "Family rooms",
+        "Fitness centre",
+        "Restaurant",
+        "Facilities for disabled guests",
+        "Room service",
+        "Bar",
+        "Fabulous breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_1.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_2.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_3.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_4.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_5.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_6.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_7.webp",
+        "scraped_data\\images\\warwick_al_taif_hotel\\warwick_al_taif_hotel_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/sa/warwick-al-taif.html",
+    "timestamp": "2026-03-28 01:36:07"
+}

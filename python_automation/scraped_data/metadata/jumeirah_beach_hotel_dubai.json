@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Jumeirah Beach Hotel Dubai",
+    "slug": "jumeirah_beach_hotel_dubai",
+    "rating": "Scored 9",
+    "review_count": "Superb· 4,027 reviews",
+    "raw_description": "This 5-star luxury Dubai hotel has a private beach and features over 10 restaurant and bars, 5 swimming pools. Guests staying at any Jumeirah Beach Hotel room can enjoy free unlimited direct access to Wild Wadi Waterpark™.\n\nAll the hotel's rooms, suites and villas are spacious and have floor-to-ceiling windows looking out over the Arabian Gulf and Jumeirah Burj Al Arab.\nEach room features a Widescreen Interactive HD LCD TV, evening turndown service and free WiFi access.\n\nJumeirah Beach Hotel offers a wide variety of international cuisine including award-winning French and British restaurants. Guests can enjoy refreshments and happy hours at Floor 24 overlooking the beach and city skyline.\n\nThe hotel has recently been renovated and all the rooms, public spaces and few of the restaurants have been upgraded and refurbished.\n\nSouk Madinat Jumeirah is a 10-minute stroll from the hotel. Dubai International Airport is 20 km away.\n\nCouples particularly like the location — they rated it9.4for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Jumeirah Beach Hotel Dubai. Located conveniently in its prime location, this property features 10 key amenities including 4 swimming pools, Airport shuttle, Beachfront.",
+    "amenities": [
+        "4 swimming pools",
+        "Airport shuttle",
+        "Beachfront",
+        "Family rooms",
+        "Free parking",
+        "Tea/coffee maker in all rooms",
+        "Bar",
+        "Private beach area",
+        "Fabulous breakfast",
+        "See all 164 facilities"
+    ],
+    "local_images": [
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_1.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_2.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_3.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_4.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_5.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_6.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_7.webp",
+        "scraped_data\\images\\jumeirah_beach_hotel_dubai\\jumeirah_beach_hotel_dubai_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/ae/jumeirah-beach.html",
+    "timestamp": "2026-03-28 01:00:36"
+}

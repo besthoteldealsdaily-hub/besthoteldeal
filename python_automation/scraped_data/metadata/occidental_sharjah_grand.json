@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Occidental Sharjah Grand",
+    "slug": "occidental_sharjah_grand",
+    "rating": "Scored 8.5",
+    "review_count": "Very good· 1,586 reviews",
+    "raw_description": "Located by the beach in Sharjah, overlooking the Arabian Gulf, this 4-star property offers a tennis court, massage treatments and a large outdoor pool.\n\nOccidental Sharjah Grand rooms have a balcony with a scenic view of the sea or of Sharjah. Accommodation is equipped with satellite TV and a minibar.\n\nLuxurious amenities provided by Occidental Sharjah Grand include a fitness centre and a hot tub. For children, the hotel offers a playground.\n\nMeena Restaurant serves breakfast, lunch and dinner in a buffet style and à la carte. Guests can enjoy live music and themed nights. La terrace to Sport Bar offers refreshing snacks and fresh fruit cocktails.\n\nStaff at the 24-hour reception can provide information about the local area and the hotel’s car rental service. The Sharjah Grand is just 20 minutes from the Sharjah and Dubai International Airport.\n\nCouples particularly like the location — they rated it8.7for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Occidental Sharjah Grand. Located conveniently in its prime location, this property features 10 key amenities including 2 swimming pools, Free WiFi, Beachfront.",
+    "amenities": [
+        "2 swimming pools",
+        "Free WiFi",
+        "Beachfront",
+        "Free parking",
+        "Family rooms",
+        "Non-smoking rooms",
+        "Fitness centre",
+        "Tea/coffee maker in all rooms",
+        "Private beach area",
+        "Very good breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_1.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_2.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_3.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_4.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_5.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_6.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_7.webp",
+        "scraped_data\\images\\occidental_sharjah_grand\\occidental_sharjah_grand_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/ae/sharjah-grand.html",
+    "timestamp": "2026-03-28 01:27:35"
+}

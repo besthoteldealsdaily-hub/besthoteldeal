@@ -1,0 +1,32 @@
+{
+    "hotel_name": "Somewhere Hotel Al Ahsa",
+    "slug": "somewhere_hotel_al_ahsa",
+    "rating": "Scored 8.7",
+    "review_count": "Fabulous· 1,136 reviews",
+    "raw_description": "Somewhere Hotel Al Ahsa provides rooms in Al Ahsa. This 5-star hotel offers a spa experience, with its hot tub and fitness centre. Both free WiFi and private parking are accessible on site.\n\nAll rooms in the hotel are equipped with a TV with satellite channels. With a private bathroom fitted with a bath and free toiletries, certain rooms at Somewhere Hotel Al Ahsa also provide guests with a city view. All guest rooms will provide guests with a wardrobe and a kettle.\n\nA continental breakfast can be enjoyed at the property.\n\nSpeaking Arabic, English, Hindi and Filipino at the reception, staff are always at hand to help.\n\nCouples particularly like the location — they rated it9.0for a two-person trip.\n\nDistance in property description is calculated using © OpenStreetMap",
+    "description": "Experience clinical levels of high-end luxury at Somewhere Hotel Al Ahsa. Located conveniently in its prime location, this property features 10 key amenities including 2 swimming pools, Free WiFi, Airport shuttle.",
+    "amenities": [
+        "2 swimming pools",
+        "Free WiFi",
+        "Airport shuttle",
+        "Fitness centre",
+        "Non-smoking rooms",
+        "Room service",
+        "Facilities for disabled guests",
+        "Spa and wellness centre",
+        "Free parking",
+        "Fabulous breakfast"
+    ],
+    "local_images": [
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_1.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_2.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_3.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_4.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_5.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_6.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_7.webp",
+        "scraped_data\\images\\somewhere_hotel_al_ahsa\\somewhere_hotel_al_ahsa_8.webp"
+    ],
+    "source_url": "https://www.booking.com/hotel/sa/somewhere-bliss-al-ahsa.html",
+    "timestamp": "2026-03-28 01:36:32"
+}
